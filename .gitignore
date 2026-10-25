@@ -1,0 +1,5 @@
+.DS_Store
+*.py
+*.command
+crawled_pages.json
+
